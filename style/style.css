@@ -10,7 +10,7 @@
     justify-content: space-around;
     padding: 20px;
     background-color:rgb(198, 228, 214);
-    border-radius: 10px;
+    border-radius: 20px;
 }
 .inside1 {
     color: rgb(14, 14, 14);
@@ -21,13 +21,15 @@
     letter-spacing: 0%;
     text-align: left;
     max-width: 60%;
+    
 
 }
 .inside1 h1{
     margin-top: 5px;
-    width:55% ;
+    width:58% ;
 }
 .inside1 p{
+    padding-top: 50px;
     opacity: 0.5;
 }
 .inside1 button{
